@@ -1,0 +1,24 @@
+Filesystem      Size  Used Avail Use% Mounted on
+udev            5.4G     0  5.4G   0% /dev
+tmpfs           1.1G  1.5M  1.1G   1% /run
+/dev/sda1        51G  7.4G   41G  16% /
+tmpfs           5.4G     0  5.4G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           5.4G     0  5.4G   0% /sys/fs/cgroup
+/dev/loop0      1.0M  1.0M     0 100% /snap/gnome-logs/81
+/dev/loop1      4.3M  4.3M     0 100% /snap/gnome-calculator/501
+/dev/loop3       15M   15M     0 100% /snap/gnome-characters/317
+/dev/loop4       45M   45M     0 100% /snap/gtk-common-themes/1353
+/dev/loop5       55M   55M     0 100% /snap/core18/1223
+/dev/loop6      150M  150M     0 100% /snap/gnome-3-28-1804/71
+tmpfs           1.1G   52K  1.1G   1% /run/user/1000
+/dev/sr0         59M   59M     0 100% /media/user/VBox_GAs_6.1.32
+/dev/loop7       56M   56M     0 100% /snap/core18/2284
+/dev/loop8      111M  111M     0 100% /snap/core/12725
+/dev/loop9       62M   62M     0 100% /snap/core20/1328
+/dev/loop10     128K  128K     0 100% /snap/bare/5
+/dev/loop11     768K  768K     0 100% /snap/gnome-characters/741
+/dev/loop12     165M  165M     0 100% /snap/gnome-3-28-1804/161
+/dev/loop13     640K  640K     0 100% /snap/gnome-logs/106
+/dev/loop14     2.7M  2.7M     0 100% /snap/gnome-calculator/920
+/dev/loop15      66M   66M     0 100% /snap/gtk-common-themes/1519
